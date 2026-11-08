@@ -72,9 +72,11 @@ Mais do que fazer algo funcionar, considero importante construir soluções que 
 
 Projetos que fazem parte da minha jornada de desenvolvimento.
 
+---
+
 ### 01. RPG Agent
 
-[![RPG Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmarquesmatos&repo=rpg&theme=transparent&hide_border=true&title_color=B794F4&text_color=C9D1D9&icon_color=39D98A&bg_color=0D1117)](https://github.com/rafaelmarquesmatos/rpg)
+[![RPG Agent](https://img.shields.io/badge/RPG_AGENT-EXPLORE_PROJECT-7B2CBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelmarquesmatos/rpg)
 
 Projeto colaborativo de RPG desenvolvido em TypeScript.
 
@@ -89,7 +91,7 @@ A aplicação utiliza uma interface de terminal e possui uma estrutura organizad
 
 ### 02. WhatsApp AI Atendimento
 
-[![WhatsApp AI Repository](https://github-readme-stats.vercel.app/api/pin/?username=Ta1Dev&repo=whatsapp-ai-atendimento&theme=transparent&hide_border=true&title_color=B794F4&text_color=C9D1D9&icon_color=39D98A&bg_color=0D1117)](https://github.com/Ta1Dev/whatsapp-ai-atendimento)
+[![WhatsApp AI](https://img.shields.io/badge/WHATSAPP_AI-EXPLORE_PROJECT-39D98A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ta1Dev/whatsapp-ai-atendimento)
 
 Projeto voltado à exploração do uso de inteligência artificial em fluxos de atendimento pelo WhatsApp.
 
@@ -100,8 +102,10 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
 
 [→ Explorar repositório](https://github.com/Ta1Dev/whatsapp-ai-atendimento)
-<br/>
 
+---
+
+<br>
 <!-- ====================================================== -->
 <!--                    GITHUB STATS                         -->
 <!-- ====================================================== -->
