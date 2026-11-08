@@ -72,69 +72,34 @@ Mais do que fazer algo funcionar, considero importante construir soluções que 
 
 Projetos que fazem parte da minha jornada de desenvolvimento.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 01. RPG Agent
 
-      <h3>01. RPG Agent</h3>
+[![RPG Repository](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmarquesmatos&repo=rpg&theme=transparent&hide_border=true&title_color=B794F4&text_color=C9D1D9&icon_color=39D98A&bg_color=0D1117)](https://github.com/rafaelmarquesmatos/rpg)
 
-      <a href="https://github.com/rafaelmarquesmatos/rpg">
-        <img
-          width="100%"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelmarquesmatos&repo=rpg&theme=transparent&hide_border=true&title_color=B794F4&text_color=C9D1D9&icon_color=39D98A&bg_color=0D1117"
-          alt="RPG repository"
-        />
-      </a>
+Projeto colaborativo de RPG desenvolvido em TypeScript.
 
-      Projeto colaborativo de RPG desenvolvido em TypeScript.
+A aplicação utiliza uma interface de terminal e possui uma estrutura organizada entre a CLI e o núcleo responsável pela lógica do agente.
 
-      A aplicação utiliza uma interface de terminal e possui uma estrutura organizada entre a CLI e o núcleo responsável pela lógica do agente.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-      <br/>
+[→ Explorar repositório](https://github.com/rafaelmarquesmatos/rpg)
 
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+---
 
-      <br/><br/>
+### 02. WhatsApp AI Atendimento
 
-      <a href="https://github.com/rafaelmarquesmatos/rpg">
-        **→ Explorar repositório**
-      </a>
+[![WhatsApp AI Repository](https://github-readme-stats.vercel.app/api/pin/?username=Ta1Dev&repo=whatsapp-ai-atendimento&theme=transparent&hide_border=true&title_color=B794F4&text_color=C9D1D9&icon_color=39D98A&bg_color=0D1117)](https://github.com/Ta1Dev/whatsapp-ai-atendimento)
 
-    </td>
+Projeto voltado à exploração do uso de inteligência artificial em fluxos de atendimento pelo WhatsApp.
 
-    <td width="50%" valign="top">
+Sua estrutura atual utiliza Node.js, TypeScript e Express.
 
-      <h3>02. WhatsApp AI Atendimento</h3>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black)
 
-      <a href="https://github.com/Ta1Dev/whatsapp-ai-atendimento">
-        <img
-          width="100%"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Ta1Dev&repo=whatsapp-ai-atendimento&theme=transparent&hide_border=true&title_color=B794F4&text_color=C9D1D9&icon_color=39D98A&bg_color=0D1117"
-          alt="WhatsApp AI Atendimento repository"
-        />
-      </a>
-
-      Projeto voltado à exploração do uso de inteligência artificial em fluxos de atendimento pelo WhatsApp.
-
-      Sua estrutura atual utiliza Node.js, TypeScript e Express.
-
-      <br/>
-
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black" />
-
-      <br/><br/>
-
-      <a href="https://github.com/Ta1Dev/whatsapp-ai-atendimento">
-        **→ Explorar repositório**
-      </a>
-
-    </td>
-  </tr>
-</table>
-
+[→ Explorar repositório](https://github.com/Ta1Dev/whatsapp-ai-atendimento)
 <br/>
 
 <!-- ====================================================== -->
