@@ -157,8 +157,8 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ta1Dev&bg_color=0D1117&color=C9D1D9&line=39D98A&point=B794F4&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity"
-    alt="GitHub activity graph"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=Ta1Dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="GitHub Profile Trophies"
   />
 
 </div>
