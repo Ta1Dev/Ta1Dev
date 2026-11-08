@@ -35,8 +35,6 @@
 <!--                     SOBRE MIM                           -->
 <!-- ====================================================== -->
 
-## `$ whoami`
-
 Olá! Sou **Thauan Ribeiro dos Santos**, da área de **Engenharia de Software**.
 
 Minha atuação e meus projetos envolvem desenvolvimento de software utilizando principalmente TypeScript, Node.js, MySQL e Java.
@@ -51,7 +49,7 @@ Mais do que fazer algo funcionar, considero importante construir soluções que 
 <!--                    TECNOLOGIAS                         -->
 <!-- ====================================================== -->
 
-## `$ tech-stack`
+## `TECH-STACK`
 
 <div align="center">
 
@@ -68,7 +66,7 @@ Mais do que fazer algo funcionar, considero importante construir soluções que 
 <!--                      PROJETOS                           -->
 <!-- ====================================================== -->
 
-## `$ projects`
+## `PROJECTS`
 
 Projetos que fazem parte da minha jornada de desenvolvimento.
 
@@ -109,7 +107,7 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 <!--                    GITHUB STATS                         -->
 <!-- ====================================================== -->
 
-## `$ github-stats`
+## `GITHUB-STATS`
 
 <div align="center">
 
@@ -133,7 +131,7 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 <!--                    STREAK STATS                         -->
 <!-- ====================================================== -->
 
-## `$ contribution-streak`
+## `CONTRIBUTION-STREAK`
 
 <div align="center">
 
@@ -151,7 +149,7 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 <!--                   ACTIVITY GRAPH                        -->
 <!-- ====================================================== -->
 
-## `$ activity-graph`
+## `ACTIVITY-GRAPH`
 
 <div align="center">
 
@@ -166,7 +164,7 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 <!--                  GITHUB TROPHIES                        -->
 <!-- ====================================================== -->
 
-## `$ achievements`
+## `ACHIEVEMENTS`
 
 <div align="center">
 
@@ -184,7 +182,7 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
 <!--                 SNAKE CONTRIBUTIONS                     -->
 <!-- ====================================================== -->
 
-## `$ contribution-snake`
+## `CONTRIBUTION-SNAKE`
 
 <div align="center">
 
@@ -205,18 +203,6 @@ Sua estrutura atual utiliza Node.js, TypeScript e Express.
   </picture>
 
 </div>
-
-<!--
-IMPORTANTE:
-A animação da cobra depende do GitHub Actions.
-
-Para ativá-la:
-1. Crie .github/workflows/snake.yml
-2. Copie a configuração disponível na seção de instalação deste README.
-3. Execute o workflow pelo GitHub Actions.
-
-O workflow cria a branch output com os arquivos SVG utilizados acima.
--->
 
 <details>
   <summary><b>⚙️ Configuração do GitHub Actions (Snake)</b></summary>
@@ -270,11 +256,6 @@ O workflow cria a branch output com os arquivos SVG utilizados acima.
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   ```
-
-  Após salvar o arquivo, acesse a aba **Actions** do repositório `Ta1Dev/Ta1Dev` e execute `Generate Contribution Snake`.
-
-  A primeira execução criará a branch `output` e publicará os SVGs utilizados nesta seção.
-
   <br/>
 
   Referência: [Platane/snk](https://github.com/Platane/snk)
@@ -287,7 +268,7 @@ O workflow cria a branch output com os arquivos SVG utilizados acima.
 <!--                     CONTATO                             -->
 <!-- ====================================================== -->
 
-## `$ connect`
+## `CONNECT`
 
 <div align="center">
 
